@@ -10,4 +10,4 @@ We do not collect any data about you except the download/payment data which is p
 
 Contact us
 
-If you have questions or comments about this Privacy Policy, you can send a mail to tbdalke@gmail.com, or you can create a issue in https://github.com/CodeNotesApp/Privacy/.
+If you have questions or comments about this Privacy Policy, you can send a mail to tbdalke@gmail.com, or you can create a issue in https://github.com/tbdalke/Case-Converter-Mobile/issues.
